@@ -1,0 +1,6 @@
+/tex/*.aux
+/tex/*.bcf
+/tex/*.log
+/tex/*.nlo
+/tex/*.out
+/tex/*.xml

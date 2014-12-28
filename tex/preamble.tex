@@ -1,0 +1,54 @@
+\documentclass[11pt,twoside]{report}      % Specifies the document class
+\usepackage[ngerman]{babel}
+
+\usepackage{geometry}
+\geometry{a4paper, left=3.5cm, right=2.5cm, top=3cm, bottom=3cm}
+
+\usepackage{import}
+\usepackage{todonotes}
+\usepackage[intoc]{nomencl}
+\makenomenclature
+
+\usepackage{xfrac}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{xunicode}
+\usepackage{fontspec}
+\setmainfont[Mapping=tex-text]{Linux Libertine O}
+
+\usepackage{xltxtra}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{tabularx}
+\newcolumntype{R}{>{\raggedleft\arraybackslash}X}%
+
+\usepackage{threeparttable}
+
+\usepackage{pdfcprot}
+
+\usepackage[sorting=none,hyperref=true,backref=false,abbreviate=false,date=iso8601,backend=biber]{biblatex}
+%\bibliography{bibliography/dsa-magier-geld.bib}
+% Year in bold
+%\DeclareFieldFormat{year}{\textbf{#1}}
+% Volume in italics
+%\DeclareFieldFormat{volume}{\textit{#1}}
+% Journal title in italics
+%\DeclareFieldFormat{journaltitle}{\textit{#1}}
+
+% Taken from Schr4t
+\tolerance 1414
+\hbadness 1414
+\emergencystretch 1.5em
+\hfuzz 0.3pt
+\widowpenalty 10000
+\vfuzz \hfuzz
+\raggedbottom
+% /Taken from Schr4t
+
+\usepackage[pdfborder={0 0 0},pdftitle={Geld verdienen als Gildenmagier -- eine inoffizielle Spielhilfe auf Basis von Das Schwarze Auge 4.1},pdfauthor={Steven Koenig / kreuvf.de},pdfsubject={Betrachtung der einem Gildenmagier zur Verfügung stehenden Einnahmequellen},colorlinks=false]{hyperref}
+\hypersetup{
+	pdfkeywords = {Hier muss noch Git-Kram rein 8)}
+}
+
+% Redefinitions
+\renewcommand{\nobreakspace}[1]{ #1}% The space used is U+00A0 NO-BREAK SPACE; This is a fix for the error "! LaTeX Error: Command \nobreakspace unavailable in encoding EU1."
