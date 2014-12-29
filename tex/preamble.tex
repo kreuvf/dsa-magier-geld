@@ -37,7 +37,15 @@
 \usepackage{import}
 \usepackage{todonotes}
 \usepackage[intoc]{nomencl}
+\renewcommand{\nomname}{Abkürzungsverzeichnis}
 \makenomenclature
+\usepackage{titling}
+\newcommand{\subtitle}[1]{%
+  \posttitle{%
+    \par\end{center}
+    \begin{center}\large#1\end{center}
+    \vskip0.5em}%
+}
 
 \usepackage{xfrac}
 \usepackage{booktabs}
@@ -55,15 +63,6 @@
 \usepackage{threeparttable}
 
 \usepackage{pdfcprot}
-
-\usepackage[sorting=none,hyperref=true,backref=false,abbreviate=false,date=iso8601,backend=biber]{biblatex}
-%\bibliography{bibliography/dsa-magier-geld.bib}
-% Year in bold
-%\DeclareFieldFormat{year}{\textbf{#1}}
-% Volume in italics
-%\DeclareFieldFormat{volume}{\textit{#1}}
-% Journal title in italics
-%\DeclareFieldFormat{journaltitle}{\textit{#1}}
 
 % Taken from Schr4t
 \tolerance 1414

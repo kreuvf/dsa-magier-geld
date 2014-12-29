@@ -1,0 +1,34 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{AP}]\begingroup Abenteuerpunkte\nomeqref {0}\nompageref{10}
+  \item [{AsP}]\begingroup Astralpunkt\nomeqref {0}\nompageref{4}
+  \item [{D}]\begingroup Dukate\nomeqref {0}\nompageref{2}
+  \item [{DSA}]\begingroup Das Schwarze Auge\nomeqref {0}\nompageref{2}
+  \item [{H}]\begingroup Heller\nomeqref {0}\nompageref{4}
+  \item [{HAM}]\begingroup Hallen arkaner Macht\nomeqref {0}
+		\nompageref{4}
+  \item [{K}]\begingroup Kreuzer\nomeqref {0}\nompageref{10}
+  \item [{LC}]\begingroup Liber Cantiones (Hardcover)\nomeqref {0}
+		\nompageref{4}
+  \item [{LeP}]\begingroup Lebenspunkt\nomeqref {0}\nompageref{4}
+  \item [{min.}]\begingroup mindestens\nomeqref {0}\nompageref{4}
+  \item [{MS}]\begingroup Meisterschirm\nomeqref {0}\nompageref{2}
+  \item [{S}]\begingroup Silberling\nomeqref {0}\nompageref{4}
+  \item [{W6}]\begingroup sechsseitiger Würfel\nomeqref {0}
+		\nompageref{4}
+  \item [{WdA}]\begingroup Wege der Alchimie\nomeqref {0}\nompageref{4}
+  \item [{WdH}]\begingroup Wege der Helden\nomeqref {0}\nompageref{14}
+  \item [{WdS}]\begingroup Wege des Schwerts\nomeqref {0}
+		\nompageref{14}
+  \item [{WdZ}]\begingroup Wege der Zauberei\nomeqref {0}
+		\nompageref{14}
+  \item [{ZBA}]\begingroup Zoo-Botanica Aventurica\nomeqref {0}
+		\nompageref{14}
+  \item [{ZfP*}]\begingroup Zauberfertigkeitspunkte nach der Probe\nomeqref {0}
+		\nompageref{10}
+  \item [{ZfW}]\begingroup Zauberfertigkeitswert\nomeqref {0}
+		\nompageref{2}
+
+\end{thenomenclature}
