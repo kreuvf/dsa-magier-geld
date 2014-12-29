@@ -4,6 +4,32 @@
 \usepackage{geometry}
 \geometry{a4paper, left=2cm, right=4cm, top=3cm, bottom=3cm}
 
+\usepackage{siunitx}
+\sisetup{
+	exponent-product = \cdot,
+	fraction-function = \sfrac,
+	group-digits = integer,
+	group-minimum-digits = 4,
+	group-separator = \text{.},
+	input-product = *,
+	inter-unit-product ={}\cdot{},
+	list-units = repeat,
+	mode = text,
+	multi-part-units = repeat,
+	output-product = \cdot,
+	qualifier-mode = subscript,
+	quotient-mode = fraction,
+	range-units = repeat,
+	separate-uncertainty = true,
+	table-figures-uncertainty = 1,
+	table-figures-integer = 1,
+	table-number-alignment = center-decimal-marker
+}%
+\DeclareSIUnit{\K}{K}
+\DeclareSIUnit{\H}{H}
+\DeclareSIUnit{\S}{S}
+\DeclareSIUnit{\D}{D}
+
 \usepackage{import}
 \usepackage{todonotes}
 \usepackage[intoc]{nomencl}
