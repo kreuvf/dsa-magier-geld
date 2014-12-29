@@ -10,6 +10,10 @@ sed -r \
 -e 's|<li>(.*)(</li>)?$|\t\\item \1|' \
 -e 's|</li>$||' \
 -e 's|</ul>|\\end{itemize}|' \
+-e 's|<abbr title="Wege der Helden">WdH</abbr>|WdH|g' \
+-e 's|<abbr title="Wege des Schwerts">WdS</abbr>|WdS|g' \
+-e 's|<abbr title="Wege der Zauberei">WdZ</abbr>|WdZ|g' \
+-e 's|<abbr title="Zoo-Botanica Aventurica">ZBA</abbr>|ZBA|g' \
 -e 's|<abbr title="Astralpunkt">AsP</abbr>|AsP|g' \
 -e 's|<abbr title="Lebenspunkt">LeP</abbr>|LeP|g' \
 -e 's|<abbr title="Zauberfertigkeitswert">ZfW</abbr>|ZfW|g' \
