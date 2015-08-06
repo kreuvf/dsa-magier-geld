@@ -306,6 +306,19 @@ Je nach dem, ob der Wohlgeruch nur einige Stunden oder sogar Tage wirken soll, k
 <li>Konkurrenz: Alchimisten (Parfümeure)</li>
 </ul>
 
+<h5>Unterstützung von Alchimisten (WdA 20)</h5>
+In offiziellen Publikationen sind ausschließlich profane und viertelzauberische Alchimisten beschrieben. Durch die damit verbundene geringe Astralenergie und die eingeschränkte Auswahl an Sprüchen, kann es vorkommen, dass ein Alchimist einen echten Magier bezahlt, um einen bestimmten Spruch zu wirken. In WdA (S. 36 bis 70) werden folgende Sprüche als Teile eines Rezeptes oder nützlich für die Herstellung genannt: Abvenenum, Adlerauge, Aerofugo, Ängste lindern, Bärenruhe, Balsam Salabunde, Bannbaladin, Blick in die Gedanken, Eigenschaften wiederherstellen, Falkenauge, Hartes schmelze, Heilkraft bannen, Horriphobus, Invocatio Maior, Karnifilo, Manifesto, Nihilogravo, Plumbumbarum, Psychostabilis, Respondami, Reversalis [Horriphobus], Reversalis [Visibili], Ruhe Körper, Salander, Sensibar, Somnigravis, Sumus Elixiere, Transmutare, Traumgestalt, Visibili.
+
+<ul>
+<li>Dauer: spruchabhängig</li>
+<li>AsP-Kosten: spruchabhängig</li>
+<li>Mindest-ZfW: spruchabhängig</li>
+<li>Möglicher Verdienst: einige bis viele D</li>
+<li>Hilfstalente: keine</li>
+<li>Hilfszauber: keine</li>
+<li>Konkurrenz: keine</li>
+</ul>
+
 <h4>Profanes</h4>
 Nicht nur Abgänger aus Akademien, die ein wenig Wert auf handwerkliche Ausbildung legen, wie etwa Nostria können auf Basis profaner Talente Geld verdienen. Je nach dem in welche Richtung die sonstigen Interessen des Magiers gehen, kann er damit ebenfalls Geld verdienen. Ich habe an dieser Stelle vor allem jene Talente aufgeführt, die man für gewöhnlich auch bei Magiern antreffen kann.
 
@@ -329,7 +342,7 @@ Jeder Magier lernt nicht nur wie man eine Thesis liest und aus ihr lernt, sonder
 
 Die fertige Thesis kann dann verkauft werden. Es ist auch möglich, dass man als Spieler eine Thesis als Bezahlung für eine Meisterperson anbietet. Wer sagt denn auch, dass immer nur die Meisterpersonen im Besitz toller Dinge sein sollen, die die Spieler wollen, und es nicht mal umgekehrt laufen kann? Der Magier sollte aber gut darüber Bescheid wissen, welche Sprüche er problemlos weitergeben kann und welche als &bdquo;Akademiegeheimnis&ldquo; gelten wie etwa der &bdquo;Blick in die Vergangenheit&ldquo; (<abbr title="Wege der Helden">WdH</abbr> 179).
 
-Die Kosten für eine Thesis der Qualität 12 können nur abgeschätzt werden und sollten von der Verbreitung abhängen. Im Liber Cantiones finden sich einige Kosten für Thesisabschriften, die ich in nachfolgender Tabelle zusammengetragen habe. Leider sind dort keine Qualitätsangaben dabei. Vermutlich sind all das eher durchschnittliche Abschriften sind (Qualität: 7 bis 10). Alternativ kann die Formel aus <abbr title="Hallen arkaner Macht">HAM</abbr> 45 verwendet werden: (8&nbsp;&minus;&nbsp;Verfügbarkeit)&nbsp;&middot;&nbsp;Komplexität&nbsp;&middot;&nbsp;50. Die entsprechenden Kosten nach dieser Formel sind ebenfalls in der Tabelle hinterlegt.
+Die Kosten für eine Thesis der Qualität 12 können nur abgeschätzt werden und sollten von der Verbreitung abhängen. Im Liber Cantiones finden sich einige Kosten für Thesisabschriften, die ich in nachfolgender Tabelle zusammengetragen habe. Leider sind dort keine Qualitätsangaben dabei. Vermutlich sind all das eher durchschnittliche Abschriften (Qualität: 7 bis 10). Alternativ kann die Formel aus <abbr title="Hallen arkaner Macht">HAM</abbr> 45 verwendet werden: (8&nbsp;&minus;&nbsp;Verfügbarkeit)&nbsp;&middot;&nbsp;Komplexität&nbsp;&middot;&nbsp;50. Die entsprechenden Kosten nach dieser Formel sind ebenfalls in der Tabelle hinterlegt.
 <table>
 <tr>
 <th>Spruch</th>
@@ -343,7 +356,7 @@ Die Kosten für eine Thesis der Qualität 12 können nur abgeschätzt werden und
 <td>250&nbsp;<abbr title="Dukaten">D</abbr>&nbsp;&ndash;&nbsp;300&nbsp;<abbr title="Dukaten">D</abbr></td>
 <td>120&nbsp;<abbr title="Dukaten">D</abbr></td>
 <td>2</td>
-<td><abbr title="Wege der Helden">WdH</abbr> 184, <abbr title="Liber Cantiones (Hardcover)">LC</abbr> 20</td>
+<td><abbr title="Wege der Helden">WdH</abbr> 184, <abbr title="Wege der Zauberei">WdZ</abbr> 277, <abbr title="Liber Cantiones (Hardcover)">LC</abbr> 20</td>
 </tr>
 <tr>
 <td>Brenne, toter Stoff!</td>
@@ -351,6 +364,13 @@ Die Kosten für eine Thesis der Qualität 12 können nur abgeschätzt werden und
 <td>75&nbsp;<abbr title="Dukaten">D</abbr></td>
 <td>3</td>
 <td><abbr title="Liber Cantiones (Hardcover)">LC</abbr> 51</td>
+</tr>
+<tr>
+<td>Caldofrigo Heiß und Kalt</td>
+<td>250&nbsp;<abbr title="Dukaten">D</abbr></td>
+<td>100&nbsp;<abbr title="Dukaten">D</abbr></td>
+<td>4</td>
+<td><abbr title="Wege der Zauberei">WdZ</abbr> 277</td>
 </tr>
 <tr>
 <td>Eigne Ängste quälen dich!</td>
@@ -378,7 +398,7 @@ Die Kosten für eine Thesis der Qualität 12 können nur abgeschätzt werden und
 <td>20&nbsp;<abbr title="Dukaten">D</abbr></td>
 <td>75&nbsp;<abbr title="Dukaten">D</abbr></td>
 <td>3</td>
-<td><abbr title="Wege der Helden">WdH</abbr> 184</td>
+<td><abbr title="Wege der Helden">WdH</abbr> 184, <abbr title="Wege der Zauberei">WdZ</abbr> 277</td>
 </tr>
 <tr>
 <td>Pfeil der Luft</td>
@@ -400,6 +420,13 @@ Die Kosten für eine Thesis der Qualität 12 können nur abgeschätzt werden und
 <td>75&nbsp;<abbr title="Dukaten">D</abbr></td>
 <td>3</td>
 <td><abbr title="Liber Cantiones (Hardcover)">LC</abbr> 278</td>
+</tr>
+<tr>
+<td>Zauberklinge Geisterspeer</td>
+<td>144&nbsp;<abbr title="Dukaten">D</abbr></td>
+<td>100&nbsp;<abbr title="Dukaten">D</abbr></td>
+<td>3</td>
+<td><abbr title="Liber Cantiones (Hardcover)">LC</abbr> 292</td>
 </tr>
 </table>
 Aus den konkret angegebenen Beispielen leite ich mir folgende Werte für eine Thesis der Qualität 7 beziehungsweise 12 für folgende Sprüche ab (je zwei Beispiele pro Verbreitung). Die 
