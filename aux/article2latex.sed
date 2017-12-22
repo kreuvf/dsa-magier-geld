@@ -1,6 +1,6 @@
 sed -r \
 -e 's|<h4>(.*)</h4>|\\section{\1}|' \
--e 's|<em>([^<]+)</em>|\\textit{\1}|g' \
+-e 's|<em>([^<]+)</em>|\\textbf{\1}|g' \
 -e 's|<abbr title="Meisterschirm">MS</abbr>|MS|g' \
 -e 's_([0-9]+)( |&nbsp;)<abbr title="Zauberfertigkeitspunkte nach der Probe">ZfP\*</abbr>_\\SI{\1}{\\ZfPstern}_g' \
 -e 's|<abbr title="Abenteuerpunkte">AP</abbr>|AP|g' \
